@@ -1,0 +1,4 @@
+# waf_safe_tools
+这是一个基于unixhot的，带后台管理的waf
+
+系统分为2个部分，第一个是基于openresty+lua的检测端，第二个是基于Flask开发的Waf规则管理系统
